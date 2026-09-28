@@ -73,3 +73,76 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Build files
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Crash reports
+CrashReportClient/
+
+# Unreal cache
+CachedAssetRegistry_*.bin
+
+ # Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Build files
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Crash reports
+CrashReportClient/
+
+# Unreal cache
+CachedAssetRegistry_*.bin
